@@ -1,2 +1,7 @@
 # Right-Clicker
-A simple python script to right click once every set amount of time.
+A simple Python script to right click once every set amount of time.
+
+
+Dependencies:
+
+pyautogui
